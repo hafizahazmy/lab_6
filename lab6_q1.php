@@ -1,5 +1,3 @@
-localhost/lab_6/lab6_q1.php
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
